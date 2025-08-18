@@ -1,0 +1,20 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package basicexercisespart1;
+
+/**
+ *
+ * @author User
+ */
+public class Problem3 {
+    public static void main(String[] args) {
+        System.out.print("Test Data: ");
+        System.out.println("21/3");
+        System.out.println("Expected Output: ");
+        System.out.println(21/3);
+                
+    }
+    
+}
